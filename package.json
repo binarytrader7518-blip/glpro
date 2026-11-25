@@ -1,0 +1,7 @@
+{
+  "name": "eng-glpro",
+  "private": true,
+  "description": "Static GLPro website for Vercel",
+  "scripts": { "indexnow": "node scripts/indexnow.mjs", "indexnow:all": "node scripts/indexnow.mjs --all" },
+  "engines": { "node": ">=18" }
+}
